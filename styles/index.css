@@ -1,0 +1,12 @@
+header {
+  background-color: #005d80;
+  height: 50px;
+  padding: 10px 25px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+header .d-flex a {
+  margin-right: 10px;
+}
